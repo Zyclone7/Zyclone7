@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Next.js, TypeScript, and advanced React patterns.
 - 💞️ I’m looking to collaborate on exciting web development projects and open-source contributions.
 - 📫 How to reach me: email@example.com
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: He
 - ⚡ Fun fact: I love hiking and have climbed over 20 mountains!
 
 <!---
