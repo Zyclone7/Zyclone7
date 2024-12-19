@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gian</h1>
 <h3 align="center">A Backend Developer</h3>
 
-- 🌱 I’m currently learning **Typescript, NextJS, Cloud Techonologies like AWS,AZURE,GCP**
+- 🌱 I’m currently learning **Typescript, NexsJS, Cloud Techonologies like AWS,AZURE,GCP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
