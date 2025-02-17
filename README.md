@@ -6,7 +6,7 @@
 </p>
 
 ### 🚀 About Me
-- 🌱 I'm currently learning **TypeScript, NestJS, and Cloud Technologies (AWS, Azure, GCP)**
+- 🌱 I'm currently learning **TypeScript, NextJS, and Cloud Technologies (AWS, Azure, GCP)**
 - 💼 Backend Developer focusing on scalable solutions
 - 🔧 Always exploring new technologies and best practices
 
