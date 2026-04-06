@@ -1,28 +1,23 @@
-👋 Hi there! I'm a Developer & Cloud Enthusiast
+    Query successful
 
-I am currently focused on mastering Cloud Computing, with a particular interest in VPS management and Solution Architecture. I enjoy building scalable systems and exploring how AI can streamline development workflows.
-🛠️ What I'm Working On
+Gemini said
 
-    Cloud Infrastructure: Managing and monitoring VPS environments and AWS EC2 instances.
+Got it. Let’s go for that ultra-clean, classic GitHub profile style using the icons from your image.
 
-    System Design: Developing robust backend logic and modern UI components (currently building a clinic management system).
+Here is your README content arranged in that simple format:
+👋 Hi there!
 
-    AI Integration: Exploring AI automation and utilizing AI-driven tools for rapid prototyping.
+    🔭 I’m currently working on VPS cloud systems and Clinic Management Systems
 
-🎯 Learning Goals
+    👯 I’m looking to collaborate on Learning Best Cloud Practices and Solution Architecture
 
-    🚀 Deep Dive into AI Automation: Integrating intelligent workflows into cloud services.
+    🤝 I’m looking for help with Learning Deeper in AI Automation and Cloud Services
 
-    🏗️ Solution Architecture: Learning best practices for designing secure, high-availability systems.
+    🌱 I’m currently learning Cloud Computing
 
-    ☁️ Cloud Mastery: Enhancing my knowledge of AWS and efficient server monitoring.
+    💬 Ask me about PHP, CSS, or AWS Infrastructure
 
-🤝 Let's Collaborate
-
-I am looking to connect with others interested in Cloud Best Practices and Architecture Design. If you're passionate about automation or cloud-native solutions, let's chat!
-⚡ Fun Fact
-
-    Gotta Catch 'Em All: When I'm not configuring servers or debugging code, you can find me diving into the world of Pokémon
+    ⚡ Fun fact: I love Pokémon
 
 
 ## 🌐 Socials:
