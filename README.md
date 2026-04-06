@@ -1,10 +1,3 @@
-    Query successful
-
-Gemini said
-
-Got it. Let’s go for that ultra-clean, classic GitHub profile style using the icons from your image.
-
-Here is your README content arranged in that simple format:
 👋 Hi there!
 
     🔭 I’m currently working on VPS cloud systems and Clinic Management Systems
